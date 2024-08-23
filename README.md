@@ -1,1 +1,1 @@
-# kubectl-debug
+# k8s-debugging
